@@ -89,4 +89,4 @@ https://www.nintendo.co.jp/tournament_guideline/application/index.html
 
 **・ホームページやSNS**
 
-空白にしてください。（もし三中のホームページで告知を行う場合は三中のURLを貼り付けてください。https://sites.google.com/g.torikyo.ed.jp/sakai3-j/）
+空白にしてください。（もし三中のホームページで告知を行う場合は三中のURLを貼り付けてください。https://sites.google.com/g.torikyo.ed.jp/sakai3-j/ ）
