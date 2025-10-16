@@ -1,3 +1,14 @@
+# 三中有志要望書
+
+Nintendo®　法人・団体によるゲーム大会への個別許諾申請
+
+https://www.nintendo.co.jp/tournament_guideline/application/index.html
+
+「Nintendo　ゲーム大会　申請」で検索してもヒットします。
+
+---
+
+
 **・ゲーム大会の種別**
 
 学校法人等の教育機関が主催するゲーム大会
